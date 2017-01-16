@@ -1,0 +1,21 @@
+{
+  "title": "Napirajz plugin",
+  "name": "napirajzplugin",
+  "version": "1.3.1",
+  "description": "Napirajz már a böngésződben is. Új tab-ra kattintva aktuális vagy random rajzok rombolják a munkakedvet. E! \n\nKülön köszönet Flamis 'spartalos' Somának, az eredeti Webextension pluginért.",
+  "main": "index.js",
+  "author": "Attila 'robotjatek' Szücs",
+  "icon": "icon.png",
+  "engines": {
+    "firefox": ">=45.0",
+    "fennec": ">=45.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  
+  "permissions": {
+    "multiprocess": true
+}
+}
